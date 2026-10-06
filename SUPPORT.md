@@ -11,3 +11,10 @@ Current download, purchase, requirements, and delivery details are on the [offic
 This repository provides product documentation. The application is proprietary and its source code is not included.
 
 GitHub's **Code → Download ZIP** downloads this repository's documentation and artwork. Use the official product page linked above to obtain the application.
+
+## Before contacting support
+
+- Check whether the message arrived in the Inbox after forwarding was activated and whether Windows was awake for the scheduled check.
+- Include the relevant dashboard status and log error, with mailbox addresses and message content redacted where unnecessary.
+
+[Product guide and common questions](GETTING-STARTED.md)
